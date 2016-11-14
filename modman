@@ -6,5 +6,5 @@ src/app/design/frontend/base/default/template/regionmanager	app/design/frontend/
 src/app/etc/modules/*                                           app/etc/modules/
 src/locale/vi_VN/*          app/locale/vi_VN/
 src/js/magestore/regionmanager.js          js/magestore/regionmanager.js
-src/js/media/regionmanager          js/media/regionmanager
+src/media/regionmanager          media/regionmanager
 src/skin/frontend/base/default/css/magestore/regionmanager.css			skin/frontend/base/default/css/magestore/regionmanager.css
